@@ -15,9 +15,7 @@ Vídeo usado como referência para estudos: [React Native Course for Beginners i
 
 ## Demonstração
 
-![Imagem Demonstração 1](./assets/images/demonstration/img1.jpg)
-
-![Imagem Demonstração 2](./assets/images/demonstration/img2.jpg)
+<img src="./assets/images/demonstration/img1.jpg" width="400" height="650"> <img src="./assets/images/demonstration/img2.jpg" width="400" height="650">
 
 
 ## Welcome to your Expo app 👋
