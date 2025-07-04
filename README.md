@@ -1,4 +1,4 @@
-# RecoMovieApp 
+# RecoMovieApp 📽 📱
 
 Aplicativo mobile criado para recomendações de filme e análise estatística pela classificação geral dos usuários com base nas informações disponibilizadas pela API do TMDB.
 
