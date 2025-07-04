@@ -1,5 +1,11 @@
 ## Bloco de anotações complementares 
 
+### Complementares
+
+    [vídeo usado como referência canal JavaScript Mastery](https://www.youtube.com/watch?v=f8Z9JyB2EIE)
+    [projeto encontrado no Git com os assets disponíveis](https://github.com/adrianhajdin/react-native-movie-app/tree/main/assets)
+    setup/app-base -> branch com setup inicial para início de novos projetos
+
 ### comando para resetar projeto para o mínimo de arquivos 
 
     npm run reset-project
@@ -27,4 +33,10 @@
 
     npx expo start --tunnel (o tunnel foi a única forma que funcionou para abrir no celular)
 
+## Uso da ferramenta Appwrite para apoio no Backend 
 
+    https://cloud.appwrite.io/console/
+
+## Download da biblioteca MaskedView 
+
+    npm install --save @react-native-masked-view/masked-view
